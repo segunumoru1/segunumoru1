@@ -37,7 +37,10 @@ Unlock the power of your data and take your organization to new heights by partn
 [Click to view SQL projects](link_to_SQL_projects_repositor) 📂
 
 ### Python
-[Click to view Python projects](link_to_Python_projects_repository) 🐍
+[Click to view Python projects]
+[(https://github.com/segunumoru1/Financial-Inclusion-in-Africa-Bank-Account-Prediction.git)]
+[(https://github.com/segunumoru1/Chatbot-Creation.git)]
+[(https://github.com/segunumoru1/Online-Payments-Fraud-Detection-Blossom-Bank.git)] 🐍
 
 ### MS PowerBI
 [Click to view MS PowerBI projects](https://github.com/segunumoru1/Athlete_Event_Analysis_Report.git) 💼

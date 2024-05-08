@@ -37,18 +37,23 @@ Unlock the power of your data and take your organization to new heights by partn
 [Click to view SQL projects](link_to_SQL_projects_repository) 📂
 
 
-### Python
-[Click to view Python projects](link_to_Python_projects_repository)
 
-[(https://github.com/segunumoru1/Financial-Inclusion-in-Africa-Bank-Account-Prediction.git)]
-
-[(https://github.com/segunumoru1/Chatbot-Creation.git)]
-
-[(https://github.com/segunumoru1/Online-Payments-Fraud-Detection-Blossom-Bank.git)]
+### Python Projects
+<details>
+  <summary>Click to view</summary>
+  
+  - [Financial Inclusion in Africa Bank Account Prediction](https://github.com/segunumoru1/Financial-Inclusion-in-Africa-Bank-Account-Prediction.git)
+  - [Chatbot Creation](https://github.com/segunumoru1/Chatbot-Creation.git)
+  - [Online Payments Fraud Detection Blossom Bank](https://github.com/segunumoru1/Online-Payments-Fraud-Detection-Blossom-Bank.git)
+</details>
 
 
 ### MS PowerBI
-[Click to view MS PowerBI projects](https://github.com/segunumoru1/Athlete_Event_Analysis_Report.git) 💼
+<details>
+  <summary>Click to view</summary>
+  
+  - [Olympic Athlete Event Analysis and Report](https://github.com/segunumoru1/Athlete_Event_Analysis_Report.git)
+</details>💼
 
 ## Social Media
 Connect with me on [LinkedIn][LinkedIn](https://www.linkedin.com/in/segun-umoru/) and [Twitter](https://twitter.com/SegunUmoru) for more updates and insights! 🌐🐦

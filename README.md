@@ -34,11 +34,11 @@ Unlock the power of your data and take your organization to new heights by partn
 
 ## Projects
 ### SQL
-[Click to view SQL projects](link_to_SQL_projects_repositor) 📂
+[Click to view SQL projects](link_to_SQL_projects_repository) 📂
 
 
 ### Python
-[Click to view Python projects]
+[Click to view Python projects](link_to_Python_projects_repository)
 
 [(https://github.com/segunumoru1/Financial-Inclusion-in-Africa-Bank-Account-Prediction.git)]
 

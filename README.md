@@ -32,7 +32,7 @@ Unlock the power of your data and take your organization to new heights by partn
 ### Version Control
 - Git 🌳
 
-## Projects
+## Projects 💼
 ### SQL
 [Click to view SQL projects](link_to_SQL_projects_repository) 📂
 
@@ -53,7 +53,7 @@ Unlock the power of your data and take your organization to new heights by partn
   <summary>Click to view</summary>
   
   - [Olympic Athlete Event Analysis and Report](https://github.com/segunumoru1/Athlete_Event_Analysis_Report.git)
-</details>💼
+</details>
 
 ## Social Media
 Connect with me on [LinkedIn](https://www.linkedin.com/in/segun-umoru/) and [Twitter](https://twitter.com/SegunUmoru) for more updates and insights! 🌐🐦

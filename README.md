@@ -34,13 +34,13 @@ Unlock the power of your data and take your organization to new heights by partn
 
 ## Projects
 ### SQL
-[Click to view SQL projects](link_to_SQL_projects_repository) 📂
+[Click to view SQL projects](link_to_SQL_projects_repositor) 📂
 
 ### Python
 [Click to view Python projects](link_to_Python_projects_repository) 🐍
 
 ### MS PowerBI
-[Click to view MS PowerBI projects](link_to_PowerBI_projects_repository) 💼
+[Click to view MS PowerBI projects](https://github.com/segunumoru1/Athlete_Event_Analysis_Report.git) 💼
 
 ## Social Media
 Connect with me on [LinkedIn][LinkedIn](https://www.linkedin.com/in/segun-umoru/) and [Twitter](https://twitter.com/SegunUmoru) for more updates and insights! 🌐🐦

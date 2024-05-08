@@ -38,8 +38,12 @@ Unlock the power of your data and take your organization to new heights by partn
 
 
 ### Python
-[Click to view Python projects](https://github.com/segunumoru1/Financial-Inclusion-in-Africa-Bank-Account-Prediction.git)
+[Click to view Python projects]
+
+[(https://github.com/segunumoru1/Financial-Inclusion-in-Africa-Bank-Account-Prediction.git)]
+
 [(https://github.com/segunumoru1/Chatbot-Creation.git)]
+
 [(https://github.com/segunumoru1/Online-Payments-Fraud-Detection-Blossom-Bank.git)]
 
 

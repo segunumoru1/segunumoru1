@@ -53,7 +53,8 @@ Unlock the power of your data and take your organization to new heights by partn
   <summary>Click to view</summary>
   
   - [Olympic Athlete Event Analysis and Report](https://github.com/segunumoru1/Athlete_Event_Analysis_Report.git)
-  - [New York City Taxi Trip Analysis and Report] (https://github.com/segunumoru1/NYC-Taxi-Trips)
+  - [New York City Taxi Trip Analysis and Report](https://github.com/segunumoru1/NYC-Taxi-Trips)
+
 </details>
 
 ## Social Media

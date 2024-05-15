@@ -20,6 +20,7 @@ Whether you are looking to accelerate skill development, improve decision-making
 Unlock the power of your data and take your organization to new heights by partnering with me. Together, we can navigate the complexities of data science, uncover actionable insights, and translate them into tangible business outcomes that drive innovation, improve customer experiences, and position you as a leader in your industry. Invest in your data's future, and let me be your trusted guide on the path to data-driven excellence.
 </details
 
+
 ## Skills 🛠
 ### Programming Technologies
 - SQL (PostgreSQL, BigQuery, MSSQL) 💾

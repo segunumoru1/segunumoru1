@@ -1,6 +1,9 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me 👨🏽‍💻
+<details>
+  <summary>Click to view</summary>
+  
 I am Segun Umoru, a  certified Data Scientist, Data Analytics, and Mathematician with a keen interest in Machine learning, Deep learning, and Artificial Intelligence.
 I lead a team of data analysts and data scientists in solving critical business problems for companies in e-commerce, health, and finance. 
 
@@ -15,7 +18,7 @@ As an accomplished Data Scientist and Mathematician, I am uniquely positioned to
 Whether you are looking to accelerate skill development, improve decision-making, enhance productivity, or gain a competitive edge, I am dedicated to sharing my expertise and guiding you through every step of the process. My commitment to fostering a data-driven culture and supporting the career progression of data enthusiasts sets me apart, ensuring that the insights I provide have a lasting impact on both individual and organizational success.
 
 Unlock the power of your data and take your organization to new heights by partnering with me. Together, we can navigate the complexities of data science, uncover actionable insights, and translate them into tangible business outcomes that drive innovation, improve customer experiences, and position you as a leader in your industry. Invest in your data's future, and let me be your trusted guide on the path to data-driven excellence.
-
+</details
 
 ## Skills 🛠
 ### Programming Technologies

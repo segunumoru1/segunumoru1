@@ -1,5 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
+
 ## About Me 👨🏽‍💻
 <details>
   <summary>Click to view</summary>
@@ -21,15 +22,15 @@ Unlock the power of your data and take your organization to new heights by partn
 </details
 
 
+
 ## Skills 🛠
 ### Programming Technologies
 - SQL (PostgreSQL, BigQuery, MSSQL) 💾
-- Python (Pandas, NumPy, Matplotlib, SciPy) 🐍
-- R 📊
+- Python (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn) 🐍
+
 
 ### Business Intelligence Tools 🛠
 - MS Excel 📊
-- Google Looker Studio 🔍
 - MS Power BI 💼
 - Tableau 📊
 

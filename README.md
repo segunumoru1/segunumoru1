@@ -50,6 +50,11 @@ Unlock the power of your data and take your organization to new heights by partn
   - [Financial Inclusion in Africa Bank Account Prediction](https://github.com/segunumoru1/Financial-Inclusion-in-Africa-Bank-Account-Prediction.git)
   - [Chatbot Creation](https://github.com/segunumoru1/Chatbot-Creation.git)
   - [Online Payments Fraud Detection Blossom Bank](https://github.com/segunumoru1/Online-Payments-Fraud-Detection-Blossom-Bank.git)
+  - [US Nurse Attrition Analytics and Prediction](https://github.com/segunumoru1/US-Nurse-Attrition-Analytics-and-Prediction.git)
+  - [Bank Marketing Product Uptake](https://github.com/segunumoru1/Bank-Marketing-Product-Uptake.git)
+  - [Petmind Sales Analysis](https://github.com/segunumoru1/PetMind-Sales-Analysis.git)
+
+
 </details>
 
 

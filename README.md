@@ -64,6 +64,7 @@ Unlock the power of your data and take your organization to new heights by partn
   
   - [Olympic Athlete Event Analysis and Report](https://github.com/segunumoru1/Athlete_Event_Analysis_Report.git)
   - [Skybound Digital Marketing Analysis and Report](https://github.com/segunumoru1/Skybound-Digital-Marketing-Analysis_Report.git)
+  - [Olist E-commerce Analysis and Report](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report.git)
 
 </details>
 

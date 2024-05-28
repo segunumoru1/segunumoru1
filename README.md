@@ -26,7 +26,7 @@ Unlock the power of your data and take your organization to new heights by partn
 ## Skills 🛠
 ### Programming Technologies
 - SQL (PostgreSQL, BigQuery, MSSQL) 💾
-- Python (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn) 🐍
+- Python (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, Keras, TensorFlow, PyTorch) 🐍
 
 
 ### Business Intelligence Tools 🛠

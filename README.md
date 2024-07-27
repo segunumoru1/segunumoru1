@@ -43,7 +43,7 @@ Unlock the power of your data and take your organization to new heights by partn
 
 
 
-### Python Projects
+### Python for Data Science Projects
 <details>
   <summary>Click to view</summary>
   
@@ -66,6 +66,7 @@ Unlock the power of your data and take your organization to new heights by partn
   - [Skybound Digital Marketing Analysis and Report](https://github.com/segunumoru1/Skybound-Digital-Marketing-Analysis_Report.git)
   - [Olist E-commerce Analysis and Report](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report.git)
   - [Abt Sales Analysis and Report](https://github.com/segunumoru1/Abt-Sales-Analysis-and-Report)
+  - [USA Retail Sales Report](https://github.com/segunumoru1/US-Retail-Sales-Report.git)
 
 </details>
 

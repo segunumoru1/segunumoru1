@@ -48,7 +48,7 @@ Unlock the power of your data and take your organization to new heights by partn
 
 
 
-### Python for Data Science Projects
+### Python for Data Science Projects 🐍
 <details>
   <summary>Click to view</summary>
   
@@ -63,7 +63,7 @@ Unlock the power of your data and take your organization to new heights by partn
 </details>
 
 
-### MS PowerBI
+### MS PowerBI 🔎
 <details>
   <summary>Click to view</summary>
   

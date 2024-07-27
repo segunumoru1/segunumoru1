@@ -41,6 +41,7 @@ Unlock the power of your data and take your organization to new heights by partn
 ### SQL 📂
 <details>
   <summary>Click to view</summary>
+  
   - [Khalid Sales Data Analysis with SQL](https://github.com/segunumoru1/Khalid-Sales-Data-with-SQL.git) 
 
 </details>

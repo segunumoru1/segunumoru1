@@ -27,6 +27,8 @@ Unlock the power of your data and take your organization to new heights by partn
 ### Programming Technologies
 - SQL (PostgreSQL, BigQuery, MSSQL) 💾
 - Python (Pandas, NumPy, Matplotlib, SciPy, Scikit-learn, Keras, TensorFlow, PyTorch) 🐍
+- NLP (NLP Toolkit) ⚙️
+- Generative AI/LLM (LangChain, OpenAI, Llamma, Mistra, Claude, RAG, Hugging Face, Tiktoken, Pinecone)🧬
 
 
 ### Business Intelligence Tools 🛠

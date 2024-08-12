@@ -5,8 +5,8 @@
 <details>
   <summary>Click to view</summary>
   
-I am Segun Umoru, a  certified Data Scientist, Data Analytics, and Mathematician with a keen interest in Machine learning, Deep learning, and Artificial Intelligence.
-I lead a team of data analysts and data scientists in solving critical business problems for companies in e-commerce, health, and finance. 
+I am Segun Umoru, a  certified Data Scientist, Data Analytics, and Mathematician with a keen interest in Machine learning, Deep learning, Natural Language Processing, and Generative Artificial Intelligence.
+I lead a team of data analysts and data scientists in solving critical business problems for companies in e-commerce, health, education, logistics, and finance. 
 
 In my roles at Gomycode and Quantum Analytics, I have helped increase visibility and profitability by 40% through data-driven strategies that optimize marketing and operations. 
 
@@ -60,6 +60,7 @@ Unlock the power of your data and take your organization to new heights by partn
   - [US Nurse Attrition Analytics and Prediction](https://github.com/segunumoru1/US-Nurse-Attrition-Analytics-and-Prediction.git)
   - [Bank Marketing Product Uptake](https://github.com/segunumoru1/Bank-Marketing-Product-Uptake.git)
   - [Petmind Sales Analysis](https://github.com/segunumoru1/PetMind-Sales-Analysis.git)
+  - [Audio to Text System](https://github.com/segunumoru1/Speech_Recognition.git)
 
 
 </details>
@@ -76,6 +77,17 @@ Unlock the power of your data and take your organization to new heights by partn
   - [USA Retail Sales Report](https://github.com/segunumoru1/US-Retail-Sales-Report.git)
 
 </details>
+
+### NLP & Gen AI 🧬
+<details>
+  <summary>Click to view</summary>
+  
+  - [AI-Powered Adult Disability Payment Form](https://github.com/segunumoru1/Adult-Disability-Payment-Form-Assistant-Chatbot.git)
+  - [Telegram FAQ Conversional Chatbot](https://github.com/segunumoru1/Telegram-Chatbot.git)
+  - [A Conversional Chatbot](https://github.com/segunumoru1/Conversational-Chatbot-Creation.git)
+ 
+</details>
+
 
 ## Social Media
 Connect with me on [LinkedIn](https://www.linkedin.com/in/segun-umoru/) and [Twitter](https://twitter.com/SegunUmoru) for more updates and insights! 🌐🐦

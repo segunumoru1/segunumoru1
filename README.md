@@ -88,6 +88,15 @@ Unlock the power of your data and take your organization to new heights by partn
  
 </details>
 
+### Tableau 📑
+<details>
+  <summary>Click to view</summary>
+
+  - [FMCG Supply Optimization](https://public.tableau.com/views/FMCGSupplyOptimizationDashboard_17236547017150/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [USA Birth Analysis](https://public.tableau.com/views/USABIRTHDASHBOARD2016-2021_17236544258200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [Earthquake Analysis](https://public.tableau.com/views/EarthquakeAnalysisDashboard_17108518023960/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [Shark Attack Analysis](https://public.tableau.com/views/SharkAttackDashboard_16659608716430/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+</details>
 
 ## Social Media
 Connect with me on [LinkedIn](https://www.linkedin.com/in/segun-umoru/) and [Twitter](https://twitter.com/SegunUmoru) for more updates and insights! 🌐🐦

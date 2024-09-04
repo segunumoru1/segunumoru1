@@ -85,7 +85,7 @@ Unlock the power of your data and take your organization to new heights by partn
   
   - [AI-Powered Adult Disability Payment Form](https://github.com/segunumoru1/Adult-Disability-Payment-Form-Assistant-Chatbot.git)
   - [Telegram FAQ Conversional Chatbot](https://github.com/segunumoru1/Telegram-Chatbot.git)
-  - [A Conversional Chatbot](https://github.com/segunumoru1/Conversational-Chatbot-Creation.git)
+  - [A Conversational Chatbot](https://github.com/segunumoru1/Conversational-Chatbot-Creation.git)
  
 </details>
 

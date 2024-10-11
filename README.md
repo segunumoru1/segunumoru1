@@ -45,7 +45,8 @@ Unlock the power of your data and take your organization to new heights by partn
   <summary>Click to view</summary>
   
   - [Khalid Sales Data Analysis with SQL](https://github.com/segunumoru1/Khalid-Sales-Data-with-SQL.git)
-  - [Supermarket Sales Analysis with SQL](https://github.com/segunumoru1/Supermarket-Sales-Analysis-with-SQL.git) 
+  - [Supermarket Sales Analysis with SQL](https://github.com/segunumoru1/Supermarket-Sales-Analysis-with-SQL.git)
+  - [US Residential Sales and Product Analysis with SQL](https://github.com/segunumoru1/US-Residential-Sales-and-Product-Analysis-with-SQL.git) 
 
 </details>
 

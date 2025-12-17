@@ -1,17 +1,21 @@
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Daily update
-  workflow_dispatch:     # Manual trigger
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - uses: actions/checkout@v4
+      
+      - name: Generate Snake
+        uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_path: assets/github-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+          
+      - name: Create assets dir
+        run: mkdir -p assets
+          
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: assets
+          keep_files: true

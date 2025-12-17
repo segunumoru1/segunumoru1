@@ -630,7 +630,7 @@ mindmap
   
   ### 💭 **"Data is the new oil, but AI is the refinery that turns it into value"**
   
-  ![Snake animation](https://github.com/segunumoru1/segunumoru1/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/segunumoru1/segunumoru1/blob/output/assets/github-snake.svg)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
   

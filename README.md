@@ -37,12 +37,19 @@
 ## 💡 What I Do
 
 🤖 **Build AI agents and agentic workflows** using LangChain/LangGraph  
-🏗️ **Architect RAG systems** with hybrid search (Pinecone + PostgreSQL) with MS MARCO reranking, and Embedding with OpenAI/Gemini/HuggingFace Transformer Embedding  
+
+🏗️ **Architect RAG systems** with hybrid search (Pinecone + PostgreSQL) with MS MARCO reranking, and Embedding with OpenAI/Gemini/HuggingFace Transformer Embedding 
+
 🧠 **Fine-tune and deploy LLMs** (OpenAI, Claude, Gemini, Cohere, Llama, Grok) 
+
 ⚡ **Develop scalable backend APIs** with Docker containerization, and FastAPI/Flask 
-📊 **Create ML pipelines** for predictive analytics, computer vision, and NLP tasks  
-🔄 **Automate data extraction** with web scraping frameworks  
-📈 **Design Business Intelligence** solutions with Excel, Power BI, and Tableau  
+
+📊 **Create ML pipelines** for predictive analytics, computer vision, and NLP tasks
+
+🔄 **Automate data extraction** with web scraping frameworks
+
+📈 **Design Business Intelligence** solutions with Excel, Power BI, and Tableau
+
 🎯 **Lead data-driven decision making** to improve business outcomes
 
 ---
@@ -261,6 +268,10 @@ Comprehensive e-commerce analytics dashboard.
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=segunumoru1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segunumoru1&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src = "https://github.com/segunumoru1?tab=achievements&achievement=yolo&themw=tokyonight", alt="GitHub Yolo"/>
 </div>
 
 <div align="center">

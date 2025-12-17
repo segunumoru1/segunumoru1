@@ -271,10 +271,6 @@ Comprehensive e-commerce analytics dashboard.
 </div>
 
 <div align="center">
-  <img src = "https://github.com/segunumoru1?tab=achievements&achievement=yolo&themw=tokyonight", alt="GitHub Yolo"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=segunumoru1&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 

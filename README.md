@@ -9,7 +9,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/segun-umoru/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SegunUmoru)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/segunumoru1)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:segunumoru1@gmail.com)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=segunumoru1&color=blueviolet&style=flat-square&label=Profile+Views)
 
@@ -19,12 +19,12 @@
 
 ## 🚀 About Me
 
-**AI/ML Engineer and Data Scientist** with **4+ years of experience** building production AI applications and scalable backend systems. I specialize in architecting end-to-end solutions from custom LLM integrations and multi-agent workflows to RESTful APIs.
+**AI/ML Engineer and Data Scientist** with **5+ years of experience** building production Machine Learning and AI applications and scalable backend systems. I specialize in architecting end-to-end solutions from custom LLM integrations and multi-agent workflows to RESTful APIs.
 
 🎯 **Current Focus:**
-- Building AI agents and agentic workflows using LangChain/LangGraph
-- Developing scalable backend APIs with hybrid search (Pinecone + PostgreSQL)
-- Fine-tuning and deploying LLMs (OpenAI, Claude, Gemini, Cohere)
+- Building AI agents and agentic workflows using LangChain/LangGraph, CrewAI, and AutoGen.
+- Developing scalable backend APIs with hybrid search (Pinecone + PostgreSQL, ChromaDB + SQLite, FAISS + Supabase)
+- Fine-tuning and deploying LLMs (OpenAI, Claude, Gemini, Cohere, Llama, Grok)
 - Leading data teams in solving critical business problems across e-commerce, health, education, logistics, and finance
 
 💼 **Impact:**
@@ -37,12 +37,12 @@
 ## 💡 What I Do
 
 🤖 **Build AI agents and agentic workflows** using LangChain/LangGraph  
-🏗️ **Architect RAG systems** with hybrid search (Pinecone + PostgreSQL) with MS MARCO reranking  
-🧠 **Fine-tune and deploy LLMs** (OpenAI, Claude, Gemini, Cohere)  
-⚡ **Develop scalable backend APIs** with FastAPI/Flask  
-📊 **Create ML pipelines** for computer vision and NLP tasks  
+🏗️ **Architect RAG systems** with hybrid search (Pinecone + PostgreSQL) with MS MARCO reranking, and Embedding with OpenAI/Gemini/HuggingFace Transformer Embedding  
+🧠 **Fine-tune and deploy LLMs** (OpenAI, Claude, Gemini, Cohere, Llama, Grok) 
+⚡ **Develop scalable backend APIs** with Docker containerization, and FastAPI/Flask 
+📊 **Create ML pipelines** for predictive analytics, computer vision, and NLP tasks  
 🔄 **Automate data extraction** with web scraping frameworks  
-📈 **Design Business Intelligence** solutions with Power BI and Tableau  
+📈 **Design Business Intelligence** solutions with Excel, Power BI, and Tableau  
 🎯 **Lead data-driven decision making** to improve business outcomes
 
 ---
@@ -63,6 +63,9 @@
 ![Claude](https://img.shields.io/badge/Claude-CC9C7A?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-39594C?style=for-the-badge&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+
 
 ### 🔧 Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -73,7 +76,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma_DB-00CC96?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 
 ### 🕸️ Web Scraping & Data Processing
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
@@ -277,12 +283,20 @@ Comprehensive e-commerce analytics dashboard.
 
 ## 💼 Professional Experience
 
+**Senior AI/ML Lead** | Optimus AI Labs
+- Led cross-functional teams of data scientists and AI engineers to deliver generative AI solutions, achieving 40% faster project delivery and improved solution quality
+- Designed multi-agent AI systems for personalized learning (Elev8 platform) using Docker/FastAPI deployments, driving 35% user engagement growth
+- Engineered EevAI customer support platform with Gemini intent recognition and GPT-based RAG, reducing manual workflows by 50%
+- Built SODC's AI chatbot/document processor with NLP and TTS features, boosting operational efficiency by 30%
+- Developed OMNIS customer engagement platform using multi-LLM architecture, achieving 25% churn reduction and 18% cross-sell conversion through predictive analytics
+**Key technologies**: LangChain, Docker, FastAPI, Gemini API, RAG systems, NLP, multi-agent architectures
+
 **Data Science Lead** | Gomycode & Quantum Analytics
 - Lead teams of data analysts and data scientists solving critical business problems
 - Increased visibility and profitability by 40% through data-driven strategies
 - Implemented predictive modeling for churn reduction and cost optimization
 - Developed successful sales and marketing initiatives using advanced analytics
-
+**Key technologies**: Python, Docker, FastAPI, Scikit-learn, Pytorch, Keras
 ---
 
 ## 🤝 Let's Connect!
@@ -293,7 +307,7 @@ Comprehensive e-commerce analytics dashboard.
   
   [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/segun-umoru/)
   [![Twitter](https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SegunUmoru)
-  [![Email](https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Email](https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:segunumoru1@gmail.com)
   [![GitHub](https://img.shields.io/badge/Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/segunumoru1)
 
   ---

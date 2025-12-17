@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Segun%20Umoru&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20|%20AI/ML%20Engineer%20|%20Mathematician&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Segun%20Umoru&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20AI/ML%20Engineer%20|%20Data%20Scientist%20|%20Mathematician&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/segun-umoru/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
   <a href="https://twitter.com/SegunUmoru"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/></a>
   <a href="https://github.com/segunumoru1"><img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=2b3137"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/></a>
+  <a href="mailto:segunumoru1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/></a>
   
   <br/>
   
@@ -26,29 +26,32 @@
 ## 👨🏽‍💻 About Me
 
 ```python
-class DataScientist:
+class SeniorAIEngineer:
     def __init__(self):
         self.name = "Segun Umoru"
-        self.role = "AI/ML Engineer & Data Scientist"
-        self.experience = "4+ years"
+        self.role = "Senior AI/ML Engineer & Data Scientist"
+        self.experience = "5+ years"
         self.location = "Lagos, Nigeria"
         self.education = ["Mathematics", "Data Science"]
         
     def current_focus(self):
         return [
-            "Building AI agents with LangChain/LangGraph",
-            "Developing RAG systems with Pinecone + PostgreSQL",
-            "Fine-tuning LLMs (OpenAI, Claude, Gemini)",
-            "Creating scalable backend APIs",
-            "Leading data-driven transformations"
+            "Building AI agents with LangChain/LangGraph, CrewAI, AutoGen",
+            "Developing RAG systems with Pinecone + PostgreSQL, ChromaDB, FAISS",
+            "Fine-tuning LLMs (OpenAI, Claude, Gemini, Cohere, Llama, Grok)",
+            "Creating scalable backend APIs with Docker + FastAPI",
+            "Leading data-driven transformations across industries"
         ]
     
     def impact(self):
         return {
             "profitability_increase": "40%",
-            "companies_served": ["E-commerce", "Healthcare", 
-                                "Education", "Logistics", "Finance"],
-            "specialization": "Predictive modeling & analytics"
+            "project_delivery_speed": "40% faster",
+            "user_engagement_growth": "35%",
+            "workflow_automation": "50% reduction",
+            "churn_reduction": "25%",
+            "industries": ["E-commerce", "Healthcare", 
+                          "Education", "Logistics", "Finance"],
         }
 ```
 
@@ -63,21 +66,22 @@ class DataScientist:
 <td width="50%">
 
 ### 🤖 AI & Machine Learning
-- ⚡ Build AI agents & agentic workflows
-- 🧠 Fine-tune & deploy LLMs
-- 🏗️ Architect RAG systems with hybrid search
-- 📊 Develop ML pipelines for CV & NLP
-- 🎯 Create predictive models
+- ⚡ Build AI agents & agentic workflows (LangChain/LangGraph, CrewAI, AutoGen)
+- 🧠 Fine-tune & deploy LLMs (OpenAI, Claude, Gemini, Cohere, Llama, Grok)
+- 🏗️ Architect RAG systems with hybrid search & MS MARCO reranking
+- 📊 Develop ML pipelines for predictive analytics, CV & NLP
+- 🎯 Design multi-agent AI systems for personalized solutions
 
 </td>
 <td width="50%">
 
-### 📈 Data Science & Analytics
-- 📊 Design BI solutions (Power BI, Tableau)
-- 🔍 Perform advanced statistical analysis
-- 💼 Lead data-driven decision making
-- 🔄 Automate data extraction workflows
-- 💡 Optimize business operations
+### 📈 Data Science & Engineering
+- 🐳 Deploy containerized solutions with Docker + FastAPI/Flask
+- 📊 Design BI solutions (Excel, Power BI, Tableau)
+- 🔍 Perform advanced statistical & predictive analysis
+- 💼 Lead data-driven decision making & strategy
+- 🔄 Automate data extraction & processing workflows
+- 💡 Optimize business operations & reduce costs
 
 </td>
 </tr>
@@ -105,13 +109,15 @@ class DataScientist:
 <br/>
 
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude-CC9C7A?style=for-the-badge&logoColor=white)
 ![Google](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Cohere](https://img.shields.io/badge/Cohere-39594C?style=for-the-badge&logoColor=white)
+![Llama](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logoColor=white)
 
 </details>
 
@@ -135,7 +141,11 @@ class DataScientist:
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00CC96?style=for-the-badge&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </details>
 
@@ -171,6 +181,7 @@ class DataScientist:
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logoColor=white)
 ![Tiktoken](https://img.shields.io/badge/Tiktoken-412991?style=for-the-badge&logoColor=white)
+![MS MARCO](https://img.shields.io/badge/MS_MARCO-0078D4?style=for-the-badge&logoColor=white)
 
 </details>
 
@@ -204,7 +215,7 @@ class DataScientist:
   
   **Tech Stack:** LangChain • OpenAI • RAG • Python
   
-  Intelligent chatbot guiding users through disability payment forms with context-aware assistance.
+  Intelligent chatbot with NLP for guiding users through disability payment forms with context-aware assistance.
 </div>
 
 </td>
@@ -274,7 +285,7 @@ class DataScientist:
   
   **Accuracy:** 85%+ • **Impact:** High
   
-  Predictive modeling for bank account ownership across Africa.
+  Predictive modeling for bank account ownership across Africa with scalable API.
 </div>
 
 </td>
@@ -289,7 +300,7 @@ class DataScientist:
   
   **Accuracy:** 95%+ • **Type:** Real-time
   
-  ML system detecting fraudulent online payment transactions.
+  ML system detecting fraudulent online payment transactions with anomaly detection.
 </div>
 
 </td>
@@ -307,7 +318,7 @@ class DataScientist:
   
   **Tech:** Scikit-learn • Pandas • Power BI
   
-  Analytics pipeline predicting healthcare worker turnover.
+  Analytics pipeline predicting healthcare worker turnover with <30s analysis time.
 </div>
 
 </td>
@@ -405,6 +416,46 @@ class DataScientist:
 </tr>
 </table>
 
+### 📊 SQL & Data Analytics
+
+<table>
+<tr>
+<td width="33%">
+
+<div align="center">
+  <h4>📈 Khalid Sales Analysis</h4>
+  <a href="https://github.com/segunumoru1/Khalid-Sales-Data-with-SQL.git">
+    <img src="https://img.shields.io/badge/SQL-View_Project-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  </a>
+  <p>Comprehensive sales analytics</p>
+</div>
+
+</td>
+<td width="33%">
+
+<div align="center">
+  <h4>🛒 Supermarket Sales</h4>
+  <a href="https://github.com/segunumoru1/Supermarket-Sales-Analysis-with-SQL.git">
+    <img src="https://img.shields.io/badge/SQL-View_Project-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  </a>
+  <p>End-to-end sales performance</p>
+</div>
+
+</td>
+<td width="33%">
+
+<div align="center">
+  <h4>🏠 US Residential Sales</h4>
+  <a href="https://github.com/segunumoru1/US-Residential-Sales-and-Product-Analysis-with-SQL.git">
+    <img src="https://img.shields.io/badge/SQL-View_Project-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  </a>
+  <p>Complex sales pattern analysis</p>
+</div>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
   
   ### 📂 More Projects
@@ -439,30 +490,54 @@ class DataScientist:
 
 ---
 
-## 💼 Professional Impact
+## 💼 Professional Experience
+
+### 🚀 Senior AI/ML Lead | **Optimus AI Labs**
+
+**Key Achievements:**
+- 🎯 Led cross-functional teams of data scientists and AI engineers delivering generative AI solutions
+- ⚡ Achieved **40% faster project delivery** with improved solution quality
+- 🎓 Designed multi-agent AI systems for personalized learning (**Elev8 platform**) using Docker/FastAPI
+- 📈 Drove **35% user engagement growth** through AI-powered personalization
+- 💬 Engineered **EevAI customer support platform** with Gemini intent recognition and GPT-based RAG
+- 🔄 Reduced manual workflows by **50%** through intelligent automation
+- 📄 Built **SODC's AI chatbot/document processor** with NLP and TTS features
+- 📊 Boosted operational efficiency by **30%** through AI integration
+- 🎯 Developed **OMNIS customer engagement platform** using multi-LLM architecture
+- 💎 Achieved **25% churn reduction** and **18% cross-sell conversion** through predictive analytics
+
+**Tech Stack:** LangChain, Docker, FastAPI, Gemini API, RAG systems, NLP, Multi-agent architectures
+
+---
+
+### 📊 Data Science Lead | **Gomycode & Quantum Analytics**
+
+**Key Achievements:**
+- 👥 Led teams of data analysts and data scientists solving critical business problems
+- 💰 Increased visibility and profitability by **40%** through data-driven strategies
+- 🎯 Implemented predictive modeling for churn reduction and cost optimization
+- 📈 Developed successful sales and marketing initiatives using advanced analytics
+- 🔬 Delivered actionable insights across e-commerce, healthcare, education, logistics, and finance
+
+**Tech Stack:** Python, Docker, FastAPI, Scikit-learn, PyTorch, Keras
+
+---
+
+## 💡 Core Competencies
 
 <div align="center">
 
-| 🎯 Metric | 📈 Achievement |
+| 🎯 Area | 📈 Expertise |
 |:---:|:---:|
-| **Profitability Increase** | 40% |
-| **Years of Experience** | 4+ |
-| **Industries Served** | 5+ |
-| **Team Leadership** | Data Scientists & Analysts |
-| **Specialization** | Predictive Modeling & AI |
+| **AI/ML Engineering** | Multi-agent systems, LLM fine-tuning, RAG architectures |
+| **Project Delivery** | 40% faster delivery with enhanced quality |
+| **User Engagement** | 35% growth through personalization |
+| **Workflow Automation** | 50% reduction in manual processes |
+| **Churn Reduction** | 25% decrease through predictive analytics |
+| **Cross-sell Success** | 18% conversion improvement |
+| **Profitability Impact** | 40% increase via data-driven strategies |
 
 </div>
-
-### 🏢 Experience Highlights
-
-**🎯 Data Science Lead** | *Gomycode & Quantum Analytics*
-
-✅ Led cross-functional teams of data scientists and analysts  
-✅ Increased company visibility and profitability by **40%**  
-✅ Implemented predictive models reducing customer churn  
-✅ Developed data-driven strategies for marketing optimization  
-✅ Created successful sales initiatives using advanced analytics  
-✅ Deployed production AI systems serving **100K+ users**  
 
 ---
 
@@ -473,24 +548,31 @@ class DataScientist:
 ```mermaid
 mindmap
   root((Segun Umoru))
-    AI/ML Engineering
+    Senior AI/ML Engineering
+      Multi-Agent Systems
       LLM Fine-tuning
-      RAG Systems
-      Agent Development
-      Model Deployment
-    Data Science
+      RAG Architectures
+      Intent Recognition
+      Docker Deployments
+    Generative AI Solutions
+      OpenAI GPT
+      Claude
+      Gemini
+      Cohere
+      Llama & Grok
+    Data Science Leadership
+      Team Management
       Predictive Modeling
       Statistical Analysis
-      Feature Engineering
-      A/B Testing
-    Backend Development
-      API Design
+      Business Strategy
+    Backend & APIs
+      FastAPI
+      Docker Containerization
       Database Architecture
       System Optimization
-      Microservices
     Business Intelligence
-      Dashboard Creation
-      Data Visualization
+      Power BI Dashboards
+      Tableau Visualization
       KPI Tracking
       Stakeholder Communication
 ```
@@ -516,8 +598,8 @@ mindmap
 
 ### 💡 **I'm Open To:**
 
-🚀 **AI/ML Consulting** • 📊 **Data Science Projects** • 🤝 **Open Source Collaboration**  
-💼 **Speaking Engagements** • 🎓 **Mentorship Opportunities** • 🏆 **Hackathons**
+🚀 **AI/ML Consulting** • 📊 **Generative AI Projects** • 🤝 **Multi-Agent System Development**  
+💼 **Speaking Engagements** • 🎓 **Technical Mentorship** • 🏆 **Open Source Collaboration** 
 
 <br/>
 
@@ -529,11 +611,16 @@ mindmap
 <a href="https://twitter.com/SegunUmoru">
   <img src="https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:segunumoru1@gmail.com">
   <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
+
+### ⭐ **Support My Work:**
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-❤️-EA4AA
+
 
 ### ⭐ **If you find my work valuable, consider:**
 
